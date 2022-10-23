@@ -1,0 +1,15 @@
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\bin\Debug\Tema3-VisorImagenes.exe.config
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\bin\Debug\Tema3-VisorImagenes.exe
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\bin\Debug\Tema3-VisorImagenes.pdb
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes.csproj.AssemblyReference.cache
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\MainWindow.g.cs
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\App.g.cs
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes_MarkupCompile.cache
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes_MarkupCompile.lref
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\MainWindow.baml
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes.g.resources
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3_VisorImagenes.Properties.Resources.resources
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes.csproj.GenerateResource.cache
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes.csproj.CoreCompileInputs.cache
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes.exe
+C:\Users\alumn\OneDrive\Escritorio\DAM\DI\UD3\Tema3-VisorImagenes\obj\Debug\Tema3-VisorImagenes.pdb
